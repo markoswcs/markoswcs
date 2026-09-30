@@ -1,148 +1,70 @@
-<!-- HEADER: ESTILO SISTEMAS / HACKER ESCURO E AZUL NATIVO DO GITHUB -->
+<!-- HEADER: ESTILO CYBERPUNK / NEON (BASEADO NA REFERÊNCIA) -->
 <div align="center">
-  <a href="https://github.com/markoswcs">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=MARKOS%20W.&fontSize=90&fontAlignY=35&desc=SYSTEMS%20PROGRAMMER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=55&descSize=20&animation=twinkling&fontColor=58a6ff" width="100%"/>
-  </a>
-</div>
-
-<!-- SOCIALS COM SEUS LINKS ORIGINAIS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/markos-winycius-cavalcante-santos-7786933b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
-  </a>
-  <a href="mailto:mw64097@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
-  </a>
-</div>
-
-<br>
-
-<!-- TEXTO DIGITANDO BILÍNGUE -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=2000&color=58a6ff&center=true&vCenter=true&width=800&lines=Building+robust+systems+and+architectures;Construindo+sistemas+e+arquiteturas+robustas;Merging+Software+Engineering+with+AI;Unindo+Engenharia+de+Software+com+Inteligência+Artificial" alt="Typing" />
-</div>
-
----
-
-<h2>🚀 About Me | Sobre Mim</h2>
-
-<p>
-  <b>[ EN ]</b> 🇧🇷 Brazilian Systems Programmer focused on building scalable, efficient software architectures. I combine a highly <b>creative mindset</b> with a strong foundation in Design to ensure seamless user experiences. I integrate advanced AI workflows to accelerate development and optimize systems.
-</p>
-
-<p>
-  <b>[ PT ]</b> 🇧🇷 Programador de Sistemas Brasileiro focado em construir arquiteturas de software escaláveis e eficientes. Uno uma <b>mentalidade altamente criativa</b> com uma base forte em Design para garantir a melhor experiência do usuário. Integro fluxos avançados de Inteligência Artificial para acelerar o desenvolvimento.
-</p>
-
-<ul>
-  <li>⚙️ <b>Focus:</b> Systems Engineering, Automation, Software Architecture.</li>
-  <li>🎨 <b>Creative Edge:</b> Bridging the gap between raw code, complex logic, and creative problem-solving.</li>
-  <li>💡 <b>Goal:</b> Architecting solutions that are computationally powerful and visually precise.</li>
-</ul>
-
----
-
-<h2>⚙️ Languages & Tools | Linguagens e Ferramentas</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="60%">
-      <h3>👨‍💻 Systems & Development</h3>
-      <!-- AS FERRAMENTAS E LINGUAGENS MAIS FAMOSAS DO MERCADO -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,nodejs,react,docker,git,linux,bash&perline=6&theme=dark" />
-      </a>
-    </td>
-    <td align="center" width="40%">
-      <h3>🎨 UI / UX Design</h3>
-      <!-- APENAS FIGMA, PHOTOSHOP E CANVA -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,ps&perline=2&theme=dark" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2>🧠 AI Workflow & Integration | Fluxo com Inteligência Artificial</h2>
-
-<p align="center">
-  <i>Maximizando a produtividade e qualidade do código através de um ecossistema integrado de IAs.</i>
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Claude_IA-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=E86E53" />
-    </td>
-    <td width="25%">
-      <i>Engenharia de Prompt, Refatoração e Lógica Complexa.</i>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/ChatGPT_IA-1A1A1A?style=for-the-badge&logo=openai&logoColor=74AA9C" />
-    </td>
-    <td width="25%">
-      <i>Resolução criativa de problemas e brainstorming estrutural.</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Gemini_IA-1A1A1A?style=for-the-badge&logo=googlebard&logoColor=8E75B2" />
-    </td>
-    <td>
-      <i>Pesquisa avançada, otimização e análise de dados.</i>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Antigravity_IDE-1A1A1A?style=for-the-badge&logo=rocket&logoColor=58a6ff" />
-    </td>
-    <td>
-      <i>Codificação autônoma e desenvolvimento hiper-rápido.</i>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <br>
-      <img src="https://img.shields.io/badge/Antigravity_2.0-1A1A1A?style=for-the-badge&logo=rocket&logoColor=FF0055" />
-      <br><i>A próxima geração da programação integrada com Agentes Autônomos.</i>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2>🏆 Telemetry & Analytics | Telemetria</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=markoswcs&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markoswcs&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markoswcs&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</p>
-
----
-
-<details>
-  <summary><b>🐍 Code Snake Animation | Animação da Cobrinha</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/markoswcs/markoswcs/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%"/>
+  <br><br>
+  <h1>M A R K O S</h1>
+  <p>
+    <b><code style="color: #c792ea;">S Y S T E M S &nbsp; P R O G R A M M E R</code></b>
   </p>
-</details>
+  <p>
+    <code style="color: #8b949e;">SOFTWARE ENGINEERING | AI INTEGRATION | DESIGN</code>
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/markos-winycius-cavalcante-santos-7786933b8" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" />
+    </a>
+    <a href="mailto:mw64097@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" />
+    </a>
+  </p>
+  <br>
+</div>
+
+<!-- TECH STACK: ESTILO PILLS NEON -->
+<div align="center">
+  <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
+</div>
+
+<!-- DESIGN STACK -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Canva-0d1117?style=flat-square&logo=canva&logoColor=00C4CC" />
+</div>
+
+<!-- AI STACK -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_AI-0d1117?style=flat-square&logo=anthropic&logoColor=E86E53" />
+  <img src="https://img.shields.io/badge/ChatGPT-0d1117?style=flat-square&logo=openai&logoColor=74AA9C" />
+  <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlebard&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-0d1117?style=flat-square&logo=rocket&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Antigravity_2.0-0d1117?style=flat-square&logo=rocket&logoColor=FF0055" />
+</div>
+
+<br><br>
+
+<!-- STATS: TEMA RADICAL (Idêntico às cores rosa/roxo da imagem de referência) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markoswcs&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markoswcs&theme=radical&hide_border=true&bg_color=0d1117&layout=compact" width="48%" />
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=10&section=footer" width="100%"/>
-</p>
+<!-- ACTIVITY PULSE: Substitui a cobrinha e funciona IMEDIATAMENTE sem precisar configurar nada -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markoswcs&theme=react-dark&hide_border=true&bg_color=0d1117&color=c792ea&line=e06c75&point=e06c75" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markoswcs&theme=radical&hide_border=true&background=0d1117" width="100%" />
+</div>
