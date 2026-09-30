@@ -1,56 +1,84 @@
-<!-- HEADER: ESTILO CYBERPUNK / NEON (BASEADO NA REFERÊNCIA) -->
 <div align="center">
+  <!-- BANNER COM FUNDO NEON CYBERPUNK (PRETO PARA ROXO) E ANIMAÇÃO DE ESTRELAS -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b005e&height=300&section=header&text=MARKOS&fontSize=90&fontAlignY=35&desc=SYSTEMS%20PROGRAMMER%20%7C%20AI%20INTEGRATION&descAlignY=55&descSize=20&animation=twinkling&fontColor=00e5ff" width="100%"/>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/markos-winycius-cavalcante-santos-7786933b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff" />
+  </a>
+  <a href="mailto:mw64097@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" />
+  </a>
+</p>
+
+---
+
+<h2 style="color: #c792ea;">>_ ABOUT_ME.json</h2>
+<pre>
+<code>
+{
+  "name": "Markos Winycius",
+  "role": "Systems Programmer",
+  "nationality": "🇧🇷 Brazilian",
+  "focus": [
+    "Scalable Software Architectures", 
+    "AI Agent Integrations", 
+    "Bare-metal Performance"
+  ],
+  "creative_edge": "Bridging the gap between complex engineering and human-centric design.",
+  "bio": {
+    "EN": "I engineer robust systems and integrate advanced Artificial Intelligence workflows to solve complex problems. My strong foundation in Design allows me to architect solutions that are not only computationally powerful but visually and structurally precise.",
+    "PT": "Construo sistemas robustos e integro IAs avançadas para resolver problemas complexos. Minha base em Design me permite arquitetar soluções computacionalmente parrudas, mas visualmente e estruturalmente impecáveis."
+  }
+}
+</code>
+</pre>
+
+---
+
+<h2 align="center">:: TECH_STACK ::</h2>
+
+<div align="center">
+  <p><b>[ SYSTEMS & CORE DEVELOPMENT ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,nodejs,react,docker,git,linux,bash&perline=6&theme=dark" />
+  </a>
   <br><br>
-  <h1>M A R K O S</h1>
-  <p>
-    <b><code style="color: #c792ea;">S Y S T E M S &nbsp; P R O G R A M M E R</code></b>
-  </p>
-  <p>
-    <code style="color: #8b949e;">SOFTWARE ENGINEERING | AI INTEGRATION | DESIGN</code>
-  </p>
-  
-  <p>
-    <a href="https://linkedin.com/in/markos-winycius-cavalcante-santos-7786933b8" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" />
-    </a>
-    <a href="mailto:mw64097@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" />
-    </a>
-  </p>
-  <br>
-</div>
-
-<!-- TECH STACK: ESTILO PILLS NEON -->
-<div align="center">
-  <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
-</div>
-
-<!-- DESIGN STACK -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+  <p><b>[ UI / UX DESIGN ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" />
+  </a>
   <img src="https://img.shields.io/badge/Canva-0d1117?style=flat-square&logo=canva&logoColor=00C4CC" />
 </div>
 
-<!-- AI STACK -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude_AI-0d1117?style=flat-square&logo=anthropic&logoColor=E86E53" />
-  <img src="https://img.shields.io/badge/ChatGPT-0d1117?style=flat-square&logo=openai&logoColor=74AA9C" />
-  <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlebard&logoColor=8E75B2" />
-  <img src="https://img.shields.io/badge/Antigravity_IDE-0d1117?style=flat-square&logo=rocket&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Antigravity_2.0-0d1117?style=flat-square&logo=rocket&logoColor=FF0055" />
-</div>
+<br>
 
-<br><br>
+<h2 align="center">:: AI_NEURAL_NETWORK ::</h2>
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Claude_3.5-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=E86E53" />
+      <br><br><i>Lógica & Refatoração</i>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/ChatGPT_4.o-1A1A1A?style=for-the-badge&logo=openai&logoColor=74AA9C" />
+       <br><br><i>Brainstorming Estrutural</i>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Gemini_Adv-1A1A1A?style=for-the-badge&logo=googlebard&logoColor=8E75B2" />
+       <br><br><i>Análise de Dados</i>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Antigravity_IDE-1A1A1A?style=for-the-badge&logo=rocket&logoColor=58a6ff" />
+       <br><br><i>Automação de Código</i>
+    </td>
+  </tr>
+</table>
 
-<!-- STATS: TEMA RADICAL (Idêntico às cores rosa/roxo da imagem de referência) -->
+---
+
+<h2 align="center">:: TELEMETRY_DATA ::</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markoswcs&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markoswcs&theme=radical&hide_border=true&bg_color=0d1117&layout=compact" width="48%" />
@@ -58,9 +86,10 @@
 
 <br>
 
-<!-- ACTIVITY PULSE: Substitui a cobrinha e funciona IMEDIATAMENTE sem precisar configurar nada -->
+<h2 align="center">:: ACTIVITY_PULSE ::</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markoswcs&theme=react-dark&hide_border=true&bg_color=0d1117&color=c792ea&line=e06c75&point=e06c75" width="100%" />
+  <!-- GRÁFICO DE ATIVIDADE COM CORES NEON IGUAIS À IMAGEM 3 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markoswcs&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e5ff&line=c792ea&point=00e5ff" width="100%" />
 </div>
 
 <br>
